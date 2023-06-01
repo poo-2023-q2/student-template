@@ -1,3 +1,12 @@
+# Template para projetos de POO no GitHub Codespace
+
+* Crie um novo repositório usando o template;
+* Inicie um codespace a partir do novo repositório;
+
+O repositório já possui um projeto Java (sem build system) criado. A documentação a seguir foi gerada automaticamente pelo wizard do VSCode.
+
+----
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
